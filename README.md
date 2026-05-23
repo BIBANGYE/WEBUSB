@@ -16,8 +16,6 @@
 5. 复位
 6. app运行开始打印
 
-![222503ns84i5csvais5t4y](assets/222503ns84i5csvais5t4y.gif)
-
 # 上传固件
 
 1. 上电前按住按键进入 dfu 模式
